@@ -7,7 +7,7 @@ Analyzed squirrel population and behavior data using SQL and SQLite.
 
 ## Questions Explored
 - Fur color distribution
-- Morning vs evening activity
+- AM vs PM shifts
 - Common squirrel behaviors
 
 ## Key Findings
